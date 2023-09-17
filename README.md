@@ -1,2 +1,1 @@
-# weatherApp
-![Simulator Screen Shot - iPhone 14 Pro - 2023-09-15 at 22 40 17](https://github.com/marinayudina/weatherApp/assets/43179703/0257e90b-af85-42ab-9d78-ad9d492cc56c)
+<img src= "https://github.com/marinayudina/weatherApp/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-09-15%20at%2022.40.17.png" width=320 height=700>
